@@ -24,7 +24,7 @@ Strawberry Phi is a fine-tuning application for OpenAI's GPT models. The purpose
 
 ### Reflection
 
-Emphasizes the model’s core capability of self-reflection and self-correction.
+Emphasizes the model’s core capability of self-reflection and self-correction
 
 ### Utilized
 
